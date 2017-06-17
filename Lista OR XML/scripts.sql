@@ -70,11 +70,6 @@ CREATE OR REPLACE TYPE tp_consultorio AS OBJECT (
 );
 /
 
-
-
-
-
-
 -- MEDICO
 CREATE OR REPLACE TYPE tp_medico AS OBJECT (
     crm number(10),
