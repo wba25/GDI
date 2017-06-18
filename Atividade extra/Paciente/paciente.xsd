@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="CLINICA">
+		<xs:element name="PACIENTE">
+			<xs:complexType>
+				<xs:sequence>
+					<xs:element name="CPF">
+						<xs:simpleType>
+							<xs:restriction base="xs:integer">
+								<xs:length value="11"/>
+							</xs:restriction>
+						</xs:simpleType>
+					</xs:element>
+			        <xs:element name="NOME" type="xs:string"/>
+			        <xs:element name="SEXO">
+						<xs:simpleType>
+						    <xs:restriction base="xs:string">
+						    	<xs:pattern value="M|F"/>
+						    </xs:restriction>
+						</xs:simpleType>
+					</xs:element>
+			        <xs:element name="DATA_NASCIMENTO" type="xs:date"/>
+			        <xs:element name="PLANO_DE_SAUDE" type="xs:string"/>
+			        <xs:element name="TELEFONES">
+			        	<xs:all>
+			        		<xs:element name="TP_FONE">
+			        			<xs:element name="NUMERO" type="xs:integer"/>
+			        		</xs:element>
+			        	</xs:all>
+			        </xs:element>
+			        <xs:element name="ENDERECO">
+						<xs:sequence>
+				            <xs:element name="CEP" type="xs:integer"/>
+				            <xs:element name="LOGRADOURO" type="xs:string"/>
+				            <xs:element name="NUMERO" type="xs:integer"/>
+				            <xs:element name="BAIRRO" type="xs:string"/>
+				            <xs:element name="CIDADE" type="xs:string"/>
+							<xs:element name="ESTADO">
+								<xs:simpleType>
+								    <xs:restriction base="xs:string">
+								      	<xs:enumeration value="AC"/>
+								      	<xs:enumeration value="AL"/>
+								      	<xs:enumeration value="AP"/>
+								      	<xs:enumeration value="AM"/>
+								      	<xs:enumeration value="BA"/>
+								      	<xs:enumeration value="CE"/>
+								      	<xs:enumeration value="DF"/>
+								      	<xs:enumeration value="ES"/>
+								      	<xs:enumeration value="GO"/>
+								      	<xs:enumeration value="MA"/>
+								      	<xs:enumeration value="MT"/>
+								      	<xs:enumeration value="MS"/>
+								      	<xs:enumeration value="MG"/>
+								      	<xs:enumeration value="PA"/>
+								      	<xs:enumeration value="PB"/>
+								      	<xs:enumeration value="PR"/>
+								      	<xs:enumeration value="PE"/>
+								      	<xs:enumeration value="PI"/>
+								      	<xs:enumeration value="RJ"/>
+								      	<xs:enumeration value="RN"/>
+								      	<xs:enumeration value="RS"/>
+								      	<xs:enumeration value="RO"/>
+								      	<xs:enumeration value="RR"/>
+								      	<xs:enumeration value="SC"/>
+								      	<xs:enumeration value="SP"/>
+								      	<xs:enumeration value="SE"/>
+								      	<xs:enumeration value="TO"/>
+								    </xs:restriction>
+								</xs:simpleType>
+							</xs:element> 
+						</xs:sequence>
+			        </xs:element>
+			        <xs:element name="PRODUTO">
+						<xs:sequence>
+				            <xs:element name="ID" type="xs:integer"/>
+				            <xs:element name="NOME" type="xs:string"/>
+				            <xs:element name="PRECO" type="xs:decimal"/>
+				            <xs:element name="DOSE" type="xs:string"/>
+				            <xs:element name="VALIDADE" type="xs:date"/>
+						</xs:sequence>
+			        </xs:element>
+				</xs:sequence>
+			</xs:complexType>
+		</xs:element>
+	</xs:element>
+</xs:schema> 

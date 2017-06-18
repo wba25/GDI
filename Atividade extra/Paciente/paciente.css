@@ -1,0 +1,73 @@
+/* -- background -- */
+CLINICA {
+    display: table;         
+    width: 100%;         
+    background-color: #FFF;         
+    border: 1px solid #bdbdbd;         
+    border-spacing: 5px;  
+    text-align: center;
+    font: 12pt arial, sans-serif;
+}
+
+/* -- linha -- */
+PACIENTE {
+    display: table-row;
+    width: auto;
+    clear: both;
+    padding: 10px;
+}
+
+/* -- colunas -- */
+NOME_COMPLETO, CPF, SEXO, PLANO_DE_SAUDE, ENDERECO, DATA_NASCIMENTO, TELEFONES, PRODUTO {
+    float: left; 
+    display: table-column;         
+    width: 12.5%;         
+    background-color: #ccc;
+    border: 1px solid rgba(0,0,0,0.2);
+    margin-left: 5px;
+    padding: 5px 0px 5px 0px;
+}
+
+NOME_COMPLETO {
+    
+}
+
+SEXO{ 
+    width: 3%;
+}
+
+PLANO_DE_SAUDE {
+    width: 9%;
+}
+
+ENDERECO {
+    width: 20%;
+    padding: 5px;
+}
+
+CPF {        
+    width: 10%;         
+}
+
+DATA_NASCIMENTO {        
+    width: 9%;         
+}
+
+TELEFONES {        
+    width: 12%;         
+}
+
+PRODUTO{        
+    width: 18%;
+    padding: 5px;
+}
+
+CEP, LOGRADOURO, NUMERO, BAIRRO, CIDADE, ESTADO, NOME, PRECO, DOSE, VALIDADE {
+    display: block;
+}
+
+CIDADE, ESTADO {
+    display: inline-block;
+}
+
+

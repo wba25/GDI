@@ -1,0 +1,989 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="paciente.css"?>
+    <CLINICA xmlns="https://www.w3schools.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.w3schools.com paciente.xsd">
+        <PACIENTE>
+            <CPF>56071103541</CPF>
+
+
+            <NOME_COMPLETO>Rana W. Garcia</NOME_COMPLETO>
+            <SEXO>F</SEXO>
+
+
+            <DATA_NASCIMENTO>04-MAR-73</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Hapvida</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11986718597</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>25698381</CEP>
+                <LOGRADOURO>Vel Avenue</LOGRADOURO>
+
+
+                <NUMERO>7833</NUMERO>
+                <BAIRRO>Diamantina</BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>8</ID>
+
+
+                <NOME>Dipirona</NOME>
+                <PRECO>14.99</PRECO>
+                <DOSE>500mg</DOSE>
+
+
+                <VALIDADE>28-OCT-22</VALIDADE>
+            </PRODUTO>
+        </PACIENTE>
+        <PACIENTE>
+
+
+            <CPF>56071103541</CPF>
+            <NOME_COMPLETO>Rana W. Garcia</NOME_COMPLETO>
+
+
+            <SEXO>F</SEXO>
+            <DATA_NASCIMENTO>04-MAR-73</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Hapvida</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11986718597</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>25698381</CEP>
+                <LOGRADOURO>Vel Avenue</LOGRADOURO>
+
+
+                <NUMERO>7833</NUMERO>
+                <BAIRRO>Diamantina</BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>1</ID>
+
+
+                <NOME>Levofloxacina</NOME>
+                <PRECO>99.99</PRECO>
+                <DOSE>250mg</DOSE>
+
+
+                <VALIDADE>27-AUG-22</VALIDADE>
+            </PRODUTO>
+        </PACIENTE>
+        <PACIENTE>
+
+
+            <CPF>12130599361</CPF>
+            <NOME_COMPLETO>Cade Q. Alston</NOME_COMPLETO>
+
+
+            <SEXO>M</SEXO>
+            <DATA_NASCIMENTO>17-NOV-12</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Hapvida</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11981338155</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>58051550</CEP>
+                <LOGRADOURO>Scelerisque St.</LOGRADOURO>
+
+
+                <NUMERO>2328</NUMERO>
+                <BAIRRO>Suvaco da Ovelha</BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>7</ID>
+
+
+                <NOME>Ibuprofeno</NOME>
+                <PRECO>24.99</PRECO>
+                <DOSE>100mg/ml</DOSE>
+
+
+                <VALIDADE>22-NOV-22</VALIDADE>
+            </PRODUTO>
+        </PACIENTE>
+        <PACIENTE>
+
+
+            <CPF>12130599361</CPF>
+            <NOME_COMPLETO>Cade Q. Alston</NOME_COMPLETO>
+
+
+            <SEXO>M</SEXO>
+            <DATA_NASCIMENTO>17-NOV-12</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Hapvida</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11981338155</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>58051550</CEP>
+                <LOGRADOURO>Scelerisque St.</LOGRADOURO>
+
+
+                <NUMERO>2328</NUMERO>
+                <BAIRRO>Suvaco da Ovelha</BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>3</ID>
+
+
+                <NOME>Ciprofloxacina</NOME>
+                <PRECO>69.99</PRECO>
+                <DOSE>250mg</DOSE>
+
+
+                <VALIDADE>12-APR-18</VALIDADE>
+            </PRODUTO>
+        </PACIENTE>
+        <PACIENTE>
+
+
+            <CPF>68804766912</CPF>
+            <NOME_COMPLETO>Daquan H. Dillon</NOME_COMPLETO>
+
+
+            <SEXO>M</SEXO>
+            <DATA_NASCIMENTO>06-JAN-13</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Hapvida</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11998446495</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>88700443</CEP>
+                <LOGRADOURO>Lorem Rd.</LOGRADOURO>
+
+
+                <NUMERO>1385</NUMERO>
+                <BAIRRO>Suvaco da Ovelha</BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>19</ID>
+
+
+                <NOME>Urocultura</NOME>
+                <PRECO>199.99</PRECO>
+            </PRODUTO>
+        </PACIENTE>
+
+
+        <PACIENTE>
+            <CPF>68804766912</CPF>
+            <NOME_COMPLETO>Daquan H. Dillon
+            </NOME_COMPLETO>
+            <SEXO>M</SEXO>
+
+
+            <DATA_NASCIMENTO>06-JAN-13</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Hapvida</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11998446495</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>88700443</CEP>
+                <LOGRADOURO>Lorem Rd.</LOGRADOURO>
+
+
+                <NUMERO>1385</NUMERO>
+                <BAIRRO>Suvaco da Ovelha</BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>4</ID>
+
+
+                <NOME>Cefepima</NOME>
+                <PRECO>39.99</PRECO>
+                <DOSE>1g</DOSE>
+
+
+                <VALIDADE>16-FEB-17</VALIDADE>
+            </PRODUTO>
+        </PACIENTE>
+        <PACIENTE>
+
+
+            <CPF>76764741465</CPF>
+            <NOME_COMPLETO>Lewis Q. Swanson</NOME_COMPLETO>
+
+
+            <SEXO>M</SEXO>
+            <DATA_NASCIMENTO>26-JUN-59</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Hapvida</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11981106371</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>44980216</CEP>
+                <LOGRADOURO>Arcu Av.</LOGRADOURO>
+
+
+                <NUMERO>2900</NUMERO>
+                <BAIRRO>Diamantina</BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>5</ID>
+
+
+                <NOME>Penicilina Benzatina</NOME>
+                <PRECO>5.99</PRECO>
+                <DOSE>250mi Und.
+                </DOSE>
+                <VALIDADE>20-JAN-16</VALIDADE>
+            </PRODUTO>
+        </PACIENTE>
+
+
+        <PACIENTE>
+            <CPF>76764741465</CPF>
+            <NOME_COMPLETO>Lewis Q. Swanson
+            </NOME_COMPLETO>
+            <SEXO>M</SEXO>
+
+
+            <DATA_NASCIMENTO>26-JUN-59</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Hapvida</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11981106371</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>44980216</CEP>
+                <LOGRADOURO>Arcu Av.</LOGRADOURO>
+
+
+                <NUMERO>2900</NUMERO>
+                <BAIRRO>Diamantina</BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>15</ID>
+
+
+                <NOME>Sorologia VDRL</NOME>
+                <PRECO>109.99</PRECO>
+            </PRODUTO>
+        </PACIENTE>
+
+
+        <PACIENTE>
+            <CPF>76764741465</CPF>
+            <NOME_COMPLETO>Lewis Q. Swanson
+            </NOME_COMPLETO>
+            <SEXO>M</SEXO>
+
+
+            <DATA_NASCIMENTO>26-JUN-59</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Hapvida</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11981106371</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>44980216</CEP>
+                <LOGRADOURO>Arcu Av.</LOGRADOURO>
+
+
+                <NUMERO>2900</NUMERO>
+                <BAIRRO>Diamantina</BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>16</ID>
+
+
+                <NOME>Sorologia FTA-ABS</NOME>
+                <PRECO>79.99</PRECO>
+            </PRODUTO>
+
+
+        </PACIENTE>
+        <PACIENTE>
+            <CPF>76764741465</CPF>
+            <NOME_COMPLETO>Lewis Q. Swanson
+            </NOME_COMPLETO>
+            <SEXO>M</SEXO>
+
+
+            <DATA_NASCIMENTO>26-JUN-59</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Hapvida</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11981106371</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>44980216</CEP>
+                <LOGRADOURO>Arcu Av.</LOGRADOURO>
+
+
+                <NUMERO>2900</NUMERO>
+                <BAIRRO>Diamantina</BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>17</ID>
+
+
+                <NOME>Hemograma</NOME>
+                <PRECO>10.99</PRECO>
+            </PRODUTO>
+        </PACIENTE>
+
+
+        <PACIENTE>
+            <CPF>76764741465</CPF>
+            <NOME_COMPLETO>Lewis Q. Swanson
+            </NOME_COMPLETO>
+            <SEXO>M</SEXO>
+
+
+            <DATA_NASCIMENTO>26-JUN-59</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Hapvida</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11981106371</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>44980216</CEP>
+                <LOGRADOURO>Arcu Av.</LOGRADOURO>
+
+
+                <NUMERO>2900</NUMERO>
+                <BAIRRO>Diamantina</BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>18</ID>
+
+
+                <NOME>Sumário de Urina</NOME>
+                <PRECO>100.99</PRECO>
+            </PRODUTO>
+
+        </PACIENTE>
+        <PACIENTE>
+            <CPF>68736002407</CPF>
+            <NOME_COMPLETO>Herman F. Stanton
+            </NOME_COMPLETO>
+            <SEXO>M</SEXO>
+
+
+            <DATA_NASCIMENTO>07-JAN-79</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Hapvida</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11990233896</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>99130382</CEP>
+                <LOGRADOURO>Amet Av.</LOGRADOURO>
+
+
+                <NUMERO>2854</NUMERO>
+                <BAIRRO>Diamantina</BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>12</ID>
+
+
+                <NOME>Terazosina</NOME>
+                <PRECO>24.99</PRECO>
+                <DOSE>100mi Und</DOSE>
+
+
+                <VALIDADE>13-AUG-21</VALIDADE>
+            </PRODUTO>
+        </PACIENTE>
+        <PACIENTE>
+
+
+            <CPF>67638519969</CPF>
+            <NOME_COMPLETO>Arthur T. Williams</NOME_COMPLETO>
+
+
+            <SEXO>M</SEXO>
+            <DATA_NASCIMENTO>12-JAN-62</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>SUS</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11987325554</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>48762266</CEP>
+                <LOGRADOURO>Est Avenue</LOGRADOURO>
+
+
+                <NUMERO>9178</NUMERO>
+                <BAIRRO>neguinho da beija-flor</BAIRRO>
+
+
+                <CIDADE>Ribeirão Preto</CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+
+            <PRODUTO>
+                <ID>21</ID>
+                <NOME>USG de vias urinárias</NOME>
+
+                <PRECO>19.99</PRECO>
+            </PRODUTO>
+        </PACIENTE>
+        <PACIENTE>
+
+
+            <CPF>67638519969</CPF>
+            <NOME_COMPLETO>Arthur T. Williams</NOME_COMPLETO>
+
+
+            <SEXO>M</SEXO>
+            <DATA_NASCIMENTO>12-JAN-62</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>SUS</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11987325554</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>48762266</CEP>
+                <LOGRADOURO>Est Avenue</LOGRADOURO>
+
+
+                <NUMERO>9178</NUMERO>
+                <BAIRRO>neguinho da beija-flor</BAIRRO>
+
+
+                <CIDADE>Ribeirão Preto</CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+
+            <PRODUTO>
+                <ID>22</ID>
+                <NOME>Litotripsia extracorpórea</NOME>
+
+                <PRECO>999.99</PRECO>
+            </PRODUTO>
+        </PACIENTE>
+        <PACIENTE>
+
+
+            <CPF>67638519969</CPF>
+            <NOME_COMPLETO>Arthur T. Williams</NOME_COMPLETO>
+
+
+            <SEXO>M</SEXO>
+            <DATA_NASCIMENTO>12-JAN-62</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>SUS</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11987325554</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>48762266</CEP>
+                <LOGRADOURO>Est Avenue</LOGRADOURO>
+
+
+                <NUMERO>9178</NUMERO>
+                <BAIRRO>neguinho da beija-flor</BAIRRO>
+
+
+                <CIDADE>Ribeirão Preto</CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+
+            <PRODUTO>
+                <ID>23</ID>
+                <NOME>Cintilografia Renal</NOME>
+
+
+                <PRECO>999.99</PRECO>
+            </PRODUTO>
+        </PACIENTE>
+        <PACIENTE>
+
+
+            <CPF>67638519969</CPF>
+            <NOME_COMPLETO>Arthur T. Williams</NOME_COMPLETO>
+
+
+            <SEXO>M</SEXO>
+            <DATA_NASCIMENTO>12-JAN-62</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>SUS</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11987325554</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>48762266</CEP>
+                <LOGRADOURO>Est Avenue</LOGRADOURO>
+
+
+                <NUMERO>9178</NUMERO>
+                <BAIRRO>neguinho da beija-flor</BAIRRO>
+
+
+                <CIDADE>Ribeirão Preto</CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+
+            <PRODUTO>
+                <ID>13</ID>
+                <NOME>Finasterida</NOME>
+                <PRECO>3.99</PRECO>
+
+
+                <DOSE>500mg</DOSE>
+                <VALIDADE>10-JAN-20</VALIDADE>
+            </PRODUTO>
+        </PACIENTE>
+
+
+        <PACIENTE>
+            <CPF>67638519969</CPF>
+            <NOME_COMPLETO>Arthur T. Williams
+            </NOME_COMPLETO>
+            <SEXO>M</SEXO>
+
+
+            <DATA_NASCIMENTO>12-JAN-62</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>SUS</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11987325554</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>48762266</CEP>
+                <LOGRADOURO>Est Avenue</LOGRADOURO>
+
+
+                <NUMERO>9178</NUMERO>
+                <BAIRRO>neguinho da beija-flor</BAIRRO>
+
+
+                <CIDADE>Ribeirão Preto</CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+
+            <PRODUTO>
+                <ID>6</ID>
+                <NOME>Ibuprofeno</NOME>
+                <PRECO>14.99</PRECO>
+
+
+                <DOSE>50mg/ml</DOSE>
+                <VALIDADE>04-APR-15</VALIDADE>
+            </PRODUTO>
+
+
+        </PACIENTE>
+        <PACIENTE>
+            <CPF>60516668469</CPF>
+            <NOME_COMPLETO>Jessica V. Shaw
+            </NOME_COMPLETO>
+            <SEXO>F</SEXO>
+
+
+            <DATA_NASCIMENTO>27-JAN-10</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>SUS</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11994292901</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>98464431</CEP>
+                <LOGRADOURO>P.O. Box Fringilla Rd.</LOGRADOURO>
+
+
+                <NUMERO>552</NUMERO>
+                <BAIRRO>São Luiz</BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>20</ID>
+
+
+                <NOME>Cultura da secreção genital</NOME>
+                <PRECO>299.99</PRECO>
+            </PRODUTO>
+
+        </PACIENTE>
+        <PACIENTE>
+            <CPF>17063339739</CPF>
+            <NOME_COMPLETO>Branden Z. Roberson
+            </NOME_COMPLETO>
+            <SEXO>M</SEXO>
+
+
+            <DATA_NASCIMENTO>31-MAY-90</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Unimed</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11987598376</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>42050398</CEP>
+                <LOGRADOURO>Quam. Av.</LOGRADOURO>
+
+
+                <NUMERO>9313</NUMERO>
+                <BAIRRO>Capitão Guile </BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>2</ID>
+
+
+                <NOME>Ciprofloxacina</NOME>
+                <PRECO>49.99</PRECO>
+                <DOSE>500mg</DOSE>
+
+
+                <VALIDADE>02-MAR-22</VALIDADE>
+            </PRODUTO>
+        </PACIENTE>
+        <PACIENTE>
+
+
+            <CPF>17063339739</CPF>
+            <NOME_COMPLETO>Branden Z. Roberson</NOME_COMPLETO>
+
+
+            <SEXO>M</SEXO>
+            <DATA_NASCIMENTO>31-MAY-90</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Unimed</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11987598376</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>42050398</CEP>
+                <LOGRADOURO>Quam. Av.</LOGRADOURO>
+
+
+                <NUMERO>9313</NUMERO>
+                <BAIRRO>Capitão Guile </BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>14</ID>
+
+
+                <NOME>Nifedipina</NOME>
+                <PRECO>19.99</PRECO>
+                <DOSE>1g</DOSE>
+
+
+                <VALIDADE>24-JAN-19</VALIDADE>
+            </PRODUTO>
+        </PACIENTE>
+        <PACIENTE>
+
+
+            <CPF>94490687865</CPF>
+            <NOME_COMPLETO>Merrill V. Romero</NOME_COMPLETO>
+
+
+            <SEXO>F</SEXO>
+            <DATA_NASCIMENTO>26-OCT-60</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Unimed</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11995944122</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>14009728</CEP>
+                <LOGRADOURO>Nec Av.</LOGRADOURO>
+
+
+                <NUMERO>6065</NUMERO>
+                <BAIRRO>Capitão Guile </BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>9</ID>
+
+
+                <NOME>Paracetamol</NOME>
+                <PRECO>44.99</PRECO>
+                <DOSE>100mg</DOSE>
+
+
+                <VALIDADE>28-OCT-23</VALIDADE>
+            </PRODUTO>
+        </PACIENTE>
+        <PACIENTE>
+
+
+            <CPF>92623243718</CPF>
+            <NOME_COMPLETO>Ivory I. Kennedy</NOME_COMPLETO>
+
+
+            <SEXO>M</SEXO>
+            <DATA_NASCIMENTO>18-JAN-59</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Unimed</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11980674521</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>20100835</CEP>
+                <LOGRADOURO>Sed Street</LOGRADOURO>
+
+
+                <NUMERO>4656</NUMERO>
+                <BAIRRO>Suvaco da Ovelha</BAIRRO>
+                <CIDADE>Ribeirão Preto
+                </CIDADE>
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>10</ID>
+
+
+                <NOME>Paracetamol</NOME>
+                <PRECO>54.99</PRECO>
+                <DOSE>250mi Und</DOSE>
+
+
+                <VALIDADE>11-APR-22</VALIDADE>
+            </PRODUTO>
+        </PACIENTE>
+        <PACIENTE>
+
+
+            <CPF>79698560587</CPF>
+            <NOME_COMPLETO>Alexandra Q. Dunlap</NOME_COMPLETO>
+
+
+            <SEXO>M</SEXO>
+            <DATA_NASCIMENTO>09-FEB-37</DATA_NASCIMENTO>
+
+
+            <PLANO_DE_SAUDE>Unimed</PLANO_DE_SAUDE>
+            <TELEFONES>
+                <TP_FONE>
+
+
+                    <NUMERO>11992255039</NUMERO>
+                </TP_FONE>
+            </TELEFONES>
+            <ENDERECO>
+
+
+                <CEP>95111873</CEP>
+                <LOGRADOURO>Ac Av.</LOGRADOURO>
+                <NUMERO>2422</NUMERO>
+
+                <BAIRRO>Capitão Guile</BAIRRO>
+                <CIDADE>Ribeirão Preto</CIDADE>
+
+                <ESTADO>SP</ESTADO>
+            </ENDERECO>
+            <PRODUTO>
+                <ID>11</ID>
+
+
+                <NOME>Tansulosina</NOME>
+                <PRECO>14.99</PRECO>
+                <DOSE>200mg</DOSE>
+
+
+                <VALIDADE>20-JUL-20</VALIDADE>
+            </PRODUTO>
+        </PACIENTE>
+    </CLINICA>
