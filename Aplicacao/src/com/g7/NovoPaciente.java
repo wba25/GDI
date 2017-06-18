@@ -14,4 +14,10 @@ public class NovoPaciente {
     private JTextField textField4;
     private JTextField textField5;
     private JTextField textField6;
+    private JTextField textField7;
+    private JTextField textField8;
+    private JTextField textField9;
+    private JButton OKButton;
+    private JButton cancelarButton;
+    private JButton adicionarFotoButton;
 }

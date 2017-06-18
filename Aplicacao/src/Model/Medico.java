@@ -20,9 +20,7 @@ public class Medico {
         this.consultorio = consultorio;
     }
 
-    public int getCrm() {
-        return crm;
-    }
+    public int getCrm() { return crm; }
 
     public void setCrm(int crm) {
         this.crm = crm;
