@@ -1,0 +1,48 @@
+CLINICA {
+ display: table;
+ width: auto;
+ border-collapse: collapse;
+ border-spacing: 0;
+ border: 3px solid #80141C;
+ margin: 1em;
+ table-layout: fixed;
+}
+
+data-caption {
+ display: table-caption;
+ text-align: center;
+ font: 1.5em Georgia, serif;
+ color: gray;
+ padding-bottom: 4px;
+}
+
+LABORATORIO {
+ display: table-row;
+}
+
+LABORATORIO:nth-child(odd) {
+  background: #F7CDCD;
+}
+
+data-header, LABORATORIO_NOME, CODIGO, LABORATORIO_ENDERECO, LABORATORIO_TELEFONE{
+ display: table-cell;
+ padding: 0.5em;
+ vertical-align: top;
+ text-align: left;
+ color: #80141C;
+ font-family: sans-serif;
+}
+
+data-header {
+ font-weight: bold;
+ background: gray;
+ color: #fff;
+}
+
+CEP, LOGRADOURO, NUMERO, BAIRRO, CIDADE, ESTADO, LABORATORIO_NOME{
+    display: inline-block;
+}
+
+CIDADE, ESTADO {
+    display: inline-block;
+}
