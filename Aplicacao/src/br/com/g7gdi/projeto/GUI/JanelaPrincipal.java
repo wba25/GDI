@@ -1,4 +1,4 @@
-package br.com.g7gdi.projeto;
+package br.com.g7gdi.projeto.GUI;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

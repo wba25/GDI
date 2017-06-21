@@ -1,4 +1,4 @@
-package Model;
+package br.com.g7gdi.projeto.Models;
 
 import java.util.ArrayList;
 
